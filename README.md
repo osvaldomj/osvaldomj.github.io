@@ -25,7 +25,7 @@ Dashboard y Visualización
 dashboard realizado con celda de selección por departamentos y el despliegue dinámico de los gráficos. Asimismo, traje correctamente los KPIs con el formato de celda correspondiente.
 Resumen Ejecutivo | README 
 desarrolle el resumen y el README.
-__________________________________________
+
 
 Movilidad urbana y productividad económica en ciudades de LATAM
 Cree un dataset único y limpio a partir de dos fuentes diferentes.
@@ -35,7 +35,7 @@ Calcule indicadores agregados (por ciudad–año).
 Realize análisis exploratorios y visuales.
 Documente todos los pasos en Jupyter Notebook, exportar un dataset final y listo para análisis.
 
-__________________________________________
+Puedes contactarme aquí en LinkedIn o por correo a osvaldo2mj2@gmail.com. Estoy abierta a nuevas oportunidades y colaboraciones que generen impacto.
 
 
 Puedes contactarme aquí en LinkedIn o por correo a osvaldo2mj2@gmail.com. Estoy abierta a nuevas oportunidades y colaboraciones que generen impacto.
