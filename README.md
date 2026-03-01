@@ -1,43 +1,33 @@
-Hola 👋
+"Hola, soy Osvaldo, Ingeniero Biomédico especializado en Análisis de Datos para el sector salud. Cuento con formación intensiva en el desarrollo de soluciones prácticas mediante Python, SQL, Power BI y estadística avanzada.
 
-me llavo Osvaldo 
-Ing. Biomédico con especialización en análisis de datos en el sector salud actualmente me encuentro en un bootcamp intensivo donde desarrollé habilidades prácticas en Python, SQL, Power BI, estadística, ETL y visualización de datos.
+Mi propuesta de valor radica en la convergencia entre la ingeniería clínica y la ciencia de datos, permitiéndome transformar información compleja en soluciones estratégicas de alto valor para la toma de decisiones.
 
-mi valor es potenciar mis habilidades y conocimientos de la ingeniería biomédica con análisis de datos lo que me permite generar soluciones especializadas y de alto valor
+Mis herramientas clave:
 
-En mi día a día, mis herramientas imprescindibles son:
+🐍 Python: Limpieza profunda, análisis estadístico y automatización.
 
-🐍 Python para limpieza profunda y análisis estadístico.
+🗄️ SQL: Extracción estratégica y manipulación de bases de datos.
 
-🗄️ SQL para la extracción estratégica de datos.
+📊 Power BI: Creación de narrativas visuales y dashboards dinámicos."
 
-📊 Power BI para crear narrativas visuales que cuentan una historia clara.
+🚀 Proyectos
+1. Optimización de Datos de Ventas (Retail/Walmart)
+Situación: El dataset original presentaba inconsistencias en formatos de fecha y falta de integridad referencial entre tablas.
 
-mis proyectos:
+Tarea: Normalizar la estructura de datos y centralizar los KPIs críticos para la gestión operativa.
 
-resumen ejecutivo de ventas de walmart 
-Preprocesamiento y Normalización 
-modifique correctamente los nombres de las hojas y normalización de las columnas Fecha y ventas_semanales. Asimismo, se observa un buen uso de la fórmula para estandarizar las fechas en semana_limpia.
-Integración de Datos 
-manejo en la integración de datos al traer correctamente las columnas tipo, tamaño y nombre_dept desde los otros datasets.
-Cálculo de KPIs y Métricas 
-Las tablas dinámicas para los tres KPIs clave del negocio están correctamente presentadas y calculadas, sujetas a la variable adecuada. Uso de las fórmulas para el cálculo de los indicadores.
-Dashboard y Visualización 
-dashboard realizado con celda de selección por departamentos y el despliegue dinámico de los gráficos. Asimismo, traje correctamente los KPIs con el formato de celda correspondiente.
-Resumen Ejecutivo | README 
-desarrolle el resumen y el README.
+Acción: Implementé procesos de ETL para estandarizar fechas y consolidar columnas clave (tipo, tamaño, departamento). Diseñé un dashboard interactivo en Excel/Power BI con segmentación dinámica por departamentos.
 
+Resultado: Logré una visualización en tiempo real de los indicadores de rendimiento, eliminando errores de cálculo manual y facilitando el análisis ejecutivo mediante un README documentado.
 
-Movilidad urbana y productividad económica en ciudades de LATAM
-Cree un dataset único y limpio a partir de dos fuentes diferentes.
-Aplique limpieza, estandarización y validación de tipos de datos.
-Filtre y enfocar el análisis en ciudades latinoamericanas.
-Calcule indicadores agregados (por ciudad–año).
-Realize análisis exploratorios y visuales.
-Documente todos los pasos en Jupyter Notebook, exportar un dataset final y listo para análisis.
+2. Análisis de Movilidad y Productividad en LATAM
+Situación: Existencia de datos fragmentados sobre urbanismo y economía en ciudades latinoamericanas.
 
+Tarea: Crear un ecosistema de datos unificado para identificar correlaciones entre movilidad y eficiencia económica.
 
-Puedes contactarme aquí en LinkedIn o por correo a osvaldo2mj2@gmail.com. Estoy abierta a nuevas oportunidades y colaboraciones que generen impacto.
+Acción: Desarrollé un pipeline de limpieza y validación de tipos de datos en Jupyter Notebook. Apliqué filtros geográficos específicos y calculé indicadores agregados por ciudad-año.
 
+Resultado: Generé un dataset final listo para modelado predictivo, documentando cada fase del análisis exploratorio (EDA) para asegurar la reproducibilidad del estudio.
 
-
+📧 Contacto y Cierre
+"Puedes contactarme a través de LinkedIn o vía correo electrónico en osvaldo2mj2@gmail.com. Estoy abierto a nuevas oportunidades y colaboraciones que generen un impacto positivo en la industria."
