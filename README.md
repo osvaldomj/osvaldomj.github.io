@@ -1,4 +1,4 @@
-Título: Hola 👋
+Hola 👋
 
 me llavo Osvaldo 
 Ing. Biomédico con especialización en análisis de datos en el sector salud actualmente me encuentro en un bootcamp intensivo donde desarrollé habilidades prácticas en Python, SQL, Power BI, estadística, ETL y visualización de datos.
