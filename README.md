@@ -26,6 +26,7 @@ dashboard realizado con celda de selección por departamentos y el despliegue di
 Resumen Ejecutivo | README 
 desarrolle el resumen y el README.
 __________________________________________
+
 Movilidad urbana y productividad económica en ciudades de LATAM
 Cree un dataset único y limpio a partir de dos fuentes diferentes.
 Aplique limpieza, estandarización y validación de tipos de datos.
@@ -33,6 +34,8 @@ Filtre y enfocar el análisis en ciudades latinoamericanas.
 Calcule indicadores agregados (por ciudad–año).
 Realize análisis exploratorios y visuales.
 Documente todos los pasos en Jupyter Notebook, exportar un dataset final y listo para análisis.
+
 __________________________________________
+
 
 Puedes contactarme aquí en LinkedIn o por correo a osvaldo2mj2@gmail.com. Estoy abierta a nuevas oportunidades y colaboraciones que generen impacto.
