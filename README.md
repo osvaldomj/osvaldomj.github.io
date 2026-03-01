@@ -1,5 +1,7 @@
 Título: Hola 👋
-soy Ing. Biomédico con especialización en análisis de datos en el sector salud actualmente me encuentro en un bootcamp intensivo donde desarrollé habilidades prácticas en Python, SQL, Power BI, estadística, ETL y visualización de datos.
+
+me llavo Osvaldo 
+Ing. Biomédico con especialización en análisis de datos en el sector salud actualmente me encuentro en un bootcamp intensivo donde desarrollé habilidades prácticas en Python, SQL, Power BI, estadística, ETL y visualización de datos.
 
 mi valor es potenciar mis habilidades y conocimientos de la ingeniería biomédica con análisis de datos lo que me permite generar soluciones especializadas y de alto valor
 
