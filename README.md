@@ -29,5 +29,5 @@ Acción: Desarrollé un pipeline de limpieza y validación de tipos de datos en 
 
 Resultado: Generé un dataset final listo para modelado predictivo, documentando cada fase del análisis exploratorio (EDA) para asegurar la reproducibilidad del estudio.
 
-📧 Contacto y Cierre
+📧 Contacto
 "Puedes contactarme a través de LinkedIn o vía correo electrónico en osvaldo2mj2@gmail.com. Estoy abierto a nuevas oportunidades y colaboraciones que generen un impacto positivo en la industria."
