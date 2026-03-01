@@ -14,6 +14,7 @@ En mi día a día, mis herramientas imprescindibles son:
 📊 Power BI para crear narrativas visuales que cuentan una historia clara.
 
 mis proyectos:
+
 resumen ejecutivo de ventas de walmart 
 Preprocesamiento y Normalización 
 modifique correctamente los nombres de las hojas y normalización de las columnas Fecha y ventas_semanales. Asimismo, se observa un buen uso de la fórmula para estandarizar las fechas en semana_limpia.
@@ -35,7 +36,8 @@ Calcule indicadores agregados (por ciudad–año).
 Realize análisis exploratorios y visuales.
 Documente todos los pasos en Jupyter Notebook, exportar un dataset final y listo para análisis.
 
+
 Puedes contactarme aquí en LinkedIn o por correo a osvaldo2mj2@gmail.com. Estoy abierta a nuevas oportunidades y colaboraciones que generen impacto.
 
 
-Puedes contactarme aquí en LinkedIn o por correo a osvaldo2mj2@gmail.com. Estoy abierta a nuevas oportunidades y colaboraciones que generen impacto.
+
